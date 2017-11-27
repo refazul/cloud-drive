@@ -3,6 +3,8 @@
 # compiled output
 *.map
 
+client_secret.json
+
 # dependencies
 node_modules
 
