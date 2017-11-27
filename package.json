@@ -1,0 +1,25 @@
+{
+    "name": "cloud-drive",
+    "version": "0.0.1",
+    "description": "Explore your favorite Cloud Drive",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:refazul/cloud-drive.git"
+    },
+    "keywords": [
+        "cloud-drive",
+        "google-drive",
+        "onedrive",
+        "dropbox"
+    ],
+    "author": "refazul",
+    "license": "ISC",
+    "dependencies": {
+        "google-auth-library": "^0.12.0",
+        "googleapis": "^23.0.0"
+    }
+}
